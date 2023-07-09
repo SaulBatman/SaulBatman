@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mingxi Jia. I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology(BUCT). 
-- 👀 I’m interested in robot manipulation, reinforcement learning, 3D reconstruction, SLAM, and deep learning.
-- 🌱 Recently, I am a Master of Science in Robotics student at Northeatern University, now working in the helping hands lab supervised by Professor Robert Platt.
-- 🌱 I was a research assistant at BNU-HKBU UIC, conducting reseaches on silhouette-based 3D Reconsturction, image segmentation and active shape models theory.
-- 📫 Please send me an email via jiadanny@outlook.com or jia.ming@northeastern.edu if you have any questions!
+- 👋 Hi, I’m Mingxi Jia. I got my master's degree (in Robotics, Computer Science concentration) from Northeastern University (Boston), where I have the fortune to work with Professor Robert Platt and my friends in the Helping Hands Lab. I got my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT).
+- 👀 I’m interested in sample-efficient robot manipulation by using geometric machine learning. I also have a keen interest in 3D reconstruction.
+- 🌱 I am an incoming Ph.D. student in Computer Science at Brown University. I will join the Human-to-Robot Lab advised by Professor Stefanie Tellex!
+- 🌱 I was a research assistant at BNU-HKBU UIC, advised by Professor Amy Hui Zhang, conducting reseaches on multi-view 3D Reconsturction, image segmentation and active shape models theory.
+- 📫 Please feel free to send me an email via mingxi_jia@cs.brown.edu if you have any questions!
 
 <!---
 SaulBatman/SaulBatman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
